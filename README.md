@@ -8,9 +8,15 @@ This project also includes JUnit test cases to validate:
 2)Thread completion behavior
 
 Features
+
 Multiple threads simulating student score submissions
+
 Thread-safe file operations using synchronized methods
+
 Writes data to scores.csv in comma-separated format
+
 Automated JUnit testing for:
+
 File creation and content check
+
 Thread completion verification
